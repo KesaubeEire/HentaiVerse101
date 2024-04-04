@@ -22,6 +22,7 @@
    ![Orbital Friendship Cannon](/pic/Orbital%20Friendship%20Cannon.png)
 
 3. 选择战斗项目
+
    ![Arena](/pic/Arena.png)  
     优先 AR(竞技场 Arena)  
     竞技场前 100 级基本上是每 10 级一档
@@ -31,6 +32,7 @@
    所以开打!
 
 4. 战斗页面
+
    ![fight](/pic/fight.png)
    一个标准战斗页面, 左边是自己的状态和战斗日志, 右边是敌人
    如果你打算手动打, 那要配好技能栏
@@ -94,7 +96,7 @@
 - <details>
     <summary><s>某布丁佬气人的装备</s></summary>
 
-    ![equipment_peerless](./pic/equipment_peerless.jpeg)
+  ![equipment_peerless](./pic/equipment_peerless.jpeg)
 
   </details>
 
