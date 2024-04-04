@@ -23,13 +23,17 @@
 
 3. 选择战斗项目
 
-   ![Arena](/pic/Arena.png)  
-    优先 AR(竞技场 Arena)  
-    竞技场前 100 级基本上是每 10 级一档
+   - AR(竞技场 Arena) 比起 GR(压榨界 Grinder) 和 IW(道具界 Item World) 有四倍的金钱和掉落率, 但是等级低的时候没几个竞技场可打  
+      ![Arena](/pic/Arena.png)  
+      平常优先 AR(竞技场 Arena), 竞技场前 100 级基本上是每 10 级一档
 
-   AR(竞技场 Arena) 比起 GR(压榨界 Grinder) 有四倍的掉落率, 但是等级低的时候没几个竞技场可打, GR(压榨界 Grinder) 也行  
-   至于 IW(道具界 Item World), 和这些没关系, 是给装备升级的, 平常打没有意义
-   所以开打!
+   - RB(浴血擂台 Ring of Blood) 可以理解为 Boss 战, 消耗令牌开打, 战胜直接给不错的战利品, 200 级之后每天刷一次飞天意大利面怪物, 前期别浪费令牌了
+     ![RB](/pic/RB.png)
+
+   - GR(压榨界 Grinder) 前期消耗多余精力的
+
+   - 至于 IW(道具界 Item World), 和这些没关系, 是给装备升级的, 平常打没有意义
+     所以开打!
 
 4. 战斗页面
 
@@ -102,33 +106,81 @@
 
 ---
 
-- 单手武器: 属性重点看 XX 率, 西洋剑最优, 前缀虚空比较好, 后缀杀戮/招架最好啦
+- 单手武器: 属性重点看招架率和攻击力, 西洋剑最优, 前缀虚空比较好(命中高且没负重干涉), 后缀杀戮/招架最好啦
+
   ![e_sword](./pic/e_sword.png)
-- 盾牌: 属性重点看格挡率, 优先力场盾, 其实盾牌种类各有优劣
-  TODO: 图
-- 重甲: 属性重点看物防魔防已经提供的属性, 优先动力甲, 板甲防御力高点但是不提供攻击属性, 也有 4 动力 1 板甲的搭配, 不过啥好穿啥
-  TODO: 图
+
+- 盾牌: 属性重点看格挡率, 优先力场盾, 小圆盾的后缀招架也很好
+
+  ![e_shield](./pic/e_shield.png)
+
+- 重甲: 属性重点看物防魔防已经提供的属性, 优先动力甲, 重甲普遍防御力高, 所以动力甲提供的攻击力比板甲多的那点防御力更重要
+
+  ![e_armor](./pic/e_armor.png)
 
 ### 技能
 
-TODO:
 根据单手的流派, 按照技能模拟器的点发:
 
-## 训练
+![skill](/pic/skill.png)
 
-TODO:
+这些技能是必点的, 其他的可以不着急, 训练里把 "能力升级" 点到 70 以上比较稳, 有条件可以多点.
+
+## 训练 & Hath Perks
+
+- [训练](https://hentaiverse.org/?s=Character&ss=tr)
+
+  ![train](/pic/train.png)
+
+  这里是前中期花钱的大头, 按照如图点是比较基础的.
+
+- [Hath Perks](https://e-hentai.org/hathperks.php) : [EhSyringe](https://sleazyfork.org/zh-CN/scripts/407833-ehsyringe) 可以翻译
+
+  ![hp](/pic/hp_1.png)
+  ![hp](/pic/hp_2.png)
+  ![hp](/pic/hp_3.png)
+
+  这里就看"实力"了捏, 列的是比较有性价比的.
 
 ## 市场
 
-TODO:
+- 消耗品
+  ![market](/pic/market_1.png)
+  主要在这里买药, 比商店便宜很多
+
+- 奖杯 & 文物
+  ![market](/pic/market_2.png)
+  主要在这里卖奖杯, 赚钱的主要来头  
+  奖杯的主要来源是 RB(浴血擂台 Ring of Blood), 每关每天挑战次数一次, 且消耗鲜血令牌  
+  普通的战斗也能获得一些 2-4 级的奖杯  
+  文物里的古遗物也是同理
+
+- 材料
+  ![market](/pic/market_3.png)
+  这里是买修装备的材料
+
+  ![market](/pic/market_4.png)
+  这里是附魔的一次性道具, 恒定世界很便宜, 重甲作战能省些蓝药
+
+  ![fumo](/pic/fumo.png)
+  可以在战斗的左侧格子快速附魔  
+  第一个是虚空碎片, 给武器可以加命中加伤害
+  第二个是羽毛碎片, 给装备可以让负重和干涉减半
 
 ## 每日任务
 
-TODO:
+1. 从 200 级之后, 每天花 5 鲜血令牌 把 RB 里的 飞行意大利面怪物打掉获得 <面条般的附肢(等级 6)> (价值 5w+)
+2. 控制精力在 60 以上, 把最后几个 AR 清空
+3. 前期关卡少精力有剩余可以打打碾压界, 但是前期优先升级, 凑齐重甲上难度, 目标是 x20 难度
+
+## 结束
+
+打到 200 级之后就算是入门了!  
+看看下面的参考文献有更加详细和复杂的机制!
+
+---
 
 # 参考文献
-
-TODO:
 
 - [HentaiVerse wiki](https://ehwiki.org/wiki/HentaiVerse)
 - [HentaiVerse 中文指引](https://forums.e-hentai.org/index.php?showtopic=189266)
