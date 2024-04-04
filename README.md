@@ -149,17 +149,17 @@
   主要在这里买药, 比商店便宜很多
 
 - 奖杯 & 文物
-  ![market](/pic/market_2.png)
+  ![market](/pic/market_2.png)  
   主要在这里卖奖杯, 赚钱的主要来头  
   奖杯的主要来源是 RB(浴血擂台 Ring of Blood), 每关每天挑战次数一次, 且消耗鲜血令牌  
   普通的战斗也能获得一些 2-4 级的奖杯  
   文物里的古遗物也是同理
 
 - 材料
-  ![market](/pic/market_3.png)
+  ![market](/pic/market_3.png)  
   这里是买修装备的材料
 
-  ![market](/pic/market_4.png)
+  ![market](/pic/market_4.png)  
   这里是附魔的一次性道具, 恒定世界很便宜, 重甲作战能省些蓝药
 
   ![fumo](/pic/fumo.png)  
